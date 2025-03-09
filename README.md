@@ -1,4 +1,4 @@
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile!)
+
 # 👋 Hi, I'm Dwi Putra Noer Wahyudy (bangudiku)  
 ### 🚀 Social Media Marketing & Automation Enthusiast  
 
@@ -23,12 +23,6 @@
 
 ---
 
-### 🔨 Featured Projects
-- 🛒 [Social Media Bot](https://github.com/bangudiku/social-media-bot) — Bot auto buy trade tanpa Selenium.  
-- 🌐 [Blog CSS Custom](https://github.com/bangudiku/blog-css) — Tampilan profesional buat Blogger pake CSS.  
-- 🤖 [Automation Scripts](https://github.com/bangudiku/automation-scripts) — Kumpulan script otomatisasi pake Playwright.  
-
----
 
 ### 🌱 What I'm Learning
 - 🔄 Automation with **Playwright & Python**  
@@ -45,5 +39,5 @@
 
 ### 📫 Contact Me
 - 📧 Email: [dwiputranoerwahyudi@gmail.com](mailto:dwiputranoerwahyudi@gmail.com)  
-- 📱 Instagram: [@dwiputra27](https://instagram.com/dwiputra27)  
+- 📱 Instagram: [@dwi.putra27](https://instagram.com/dwi.putra27)  
 - 🐙 GitHub: [bangudiku](https://github.com/bangudiku)  
